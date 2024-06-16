@@ -1,0 +1,4 @@
+1.Loading the csv dataset.
+2.Removing unwanted features. 
+3.Decision about missing values.
+4.Textual to numbers index starting from zero.  
